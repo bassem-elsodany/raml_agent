@@ -1,6 +1,6 @@
 # Digital Banking RAML API Design with AI Agent and BOI-MCP Integration
 
-This project demonstrates how to use an AI agent (GitHub Copilot) to automate RAML 1.0 API design activities, strictly governed by BOI-MCP (Bank of Ireland Model Context Protocol) canonical field validation and governance rules.
+This project demonstrates how to use an AI agent (GitHub Copilot) to automate RAML 1.0 API design activities, strictly governed by BOI-MCP (Bank of Internet Model Context Protocol) canonical field validation and governance rules.
 
 ## Key Features
 - **AI-driven RAML generation**: Use natural language prompts to generate RAML endpoints, types, and examples.
