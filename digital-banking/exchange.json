@@ -1,0 +1,11 @@
+{
+  "main": "digital-banking.raml",
+  "name": "digital-banking",
+  "classifier": "raml",
+  "organizationId": "",
+  "descriptorVersion": "1.0.0",
+  "tags": [],
+  "groupId": "",
+  "assetId": "digital-banking",
+  "version": "1.0.0"
+}

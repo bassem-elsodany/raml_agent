@@ -1,0 +1,15 @@
+#%RAML 1.0
+title: digital-banking
+version: v1.0.0
+baseUri: https://api.bank.com/{env}digital-banking
+baseUriParameters:
+  env:
+    description: Environment prefix for the API (e.g., dev., test., or empty for production)
+    enum: [ "dev.", "test.", "" ]
+    required: false
+    default: ""
+
+documentation:
+  - title: Changelog
+    content: |
+      See changelog.raml for full version history and changes.
